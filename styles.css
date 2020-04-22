@@ -1,0 +1,14 @@
+*{margin:0, padding 50}
+
+.parent-container{
+    display: flex;
+    background-color: purple;
+    justify-content: space-between;
+    text-decoration: none;
+    flex-direction: row;            
+    flex-wrap: nowrap; 
+}
+
+a{
+    color: white;
+}
